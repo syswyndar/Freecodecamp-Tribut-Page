@@ -1,0 +1,54 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+#main {
+    background-color: #DDDDDD;
+    padding-bottom: 10rem;
+}
+
+/* Header */
+
+#header {
+    padding: 1rem 0 0 0;
+}
+
+#title {
+    font-size: 3rem;
+}
+
+#img-div {
+    background-color: white;
+    margin: 0 10px;
+    padding-bottom: 10px;
+    display: relative;
+    align-items: center;
+}
+#image {
+    padding: 1rem 0 0 0;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* tribut info */
+#tribute-info {
+    display: block;
+    padding-top: 2rem;
+}
+
+ul {
+    display: block;
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    line-height: 1.5;
+    list-style-type: disc;
+}
+
+li {
+    text-align: left;
+
+}
